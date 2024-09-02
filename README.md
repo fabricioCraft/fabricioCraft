@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fabrício. 👋
+## Olá! Eu sou o Fabrício. 👏🏿
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricioCraft&show_icons=true&theme=cobalt&include_all_commits=true">
