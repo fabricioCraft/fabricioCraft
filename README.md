@@ -1,9 +1,15 @@
 ## Olá! Eu sou o Fabrício. 👏🏿
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricioCraft&show_icons=true&theme=cobalt&include_all_commits=true">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioCraft&show_icons=true&theme=cobalt">
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=fabricioCraft&show_icons=true&theme=cobalt&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+ <a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=fabricioCraft&hide=scss&langs_count=8&theme=cobalt&card_width=150" />
+</a>
 </div>
+
+## Skills
 
 <div class= "skills" style="inline_block"><br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 heigth=40>
